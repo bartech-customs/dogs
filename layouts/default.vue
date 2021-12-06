@@ -1,7 +1,7 @@
 <template>
   <v-app app>
-    <v-app-bar :clipped-left="clipped" fixed app>
-      <v-toolbar-title v-text="title" />
+    <v-app-bar fixed app>
+      <v-toolbar-title>Dogs</v-toolbar-title>
     </v-app-bar>
     <v-main>
       <v-container>
